@@ -1,0 +1,14 @@
+.wrapper {
+  width: 400px;
+  margin-bottom: 24px;
+
+  span {
+    display: inline-block;
+    margin-bottom: 4px;
+  }
+
+  input {
+    width: 100%;
+    padding: 4px 8px;
+  }
+}

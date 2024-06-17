@@ -1,0 +1,16 @@
+.wrapper {
+  padding: 0 30px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
+
+.empty {
+  color: rgb(255, 98, 98);
+  font-weight: bold;
+}
